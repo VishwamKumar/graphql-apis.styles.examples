@@ -6,5 +6,5 @@ global using ToDoApp.GraphQLApi.HotChocolate.Schemas.Types;
 global using ToDoApp.GraphQLApi.HotChocolate.Dtos;
 
 global using Microsoft.EntityFrameworkCore;
-global using ToDoApp.DataLibrary.Sqlite.Services;
-global using ToDoApp.DataLibrary.Sqlite.Models;
+global using ToDoApp.Data.Sqlite.Services;
+global using ToDoApp.Data.Sqlite.Models;

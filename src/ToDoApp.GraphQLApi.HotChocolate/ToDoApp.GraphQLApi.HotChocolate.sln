@@ -5,7 +5,7 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoApp.GraphQLApi.HotChocolate", "ToDoApp.GraphQLApi.HotChocolate.csproj", "{0A047D28-A67C-4791-9709-2DF82C8CC4F6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoApp.DataLibrary.Sqlite", "..\ToDoApp.DataLibrary.Sqlite\ToDoApp.DataLibrary.Sqlite.csproj", "{269FDCDA-8326-497C-8A11-19D1878F869F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoApp.Data.Sqlite", "..\ToDoApp.Data.Sqlite\ToDoApp.Data.Sqlite.csproj", "{269FDCDA-8326-497C-8A11-19D1878F869F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
