@@ -49,14 +49,16 @@ Vishwa is the primary architect of the ToDoApp, responsible for the architecture
    ```bash
         cd ToDoApp.GraphQLApi.HotChocolate
     ```
+    ---
 3. Run the application:
-. ```bash
+   ```bash
      dotnet run
-  ```
+   ```
+   ---
 
 3. Open Banana Cake Pop (HotChocolate’s GraphQL IDE) in your browser: (use sample from docs)
-. ```bash
-     (http://localhost:5000/graphql)
-  ```
+   ```bash
+     http://localhost:5000/graphql
+   ```
   ---
   
