@@ -42,7 +42,7 @@ Vishwa is the primary architect of the ToDoApp, responsible for the architecture
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/todoapp.graphql-api.layered.git   
+   git clone https://github.com/vishwamkumar/todoapp.graphql-api.layered.git   
    ```
    
 2. Set the working directory:
